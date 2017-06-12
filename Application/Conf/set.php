@@ -1,0 +1,1 @@
+<?php	return array ( 'WEB_NAME' => '案例问答管理系统', 'WEB_DOMAIN' => 'http://icase.igawk.cn/', 'WEB_DEVELOPER' => '夏慧新', 'WEB_COPYRIGHT' => '碗里人工作室', 'WEB_KETWORD' => '网站关键字', 'WEB_DESCRIPTION' => '网站描述', 'WEB_STATIONMASTER' => '网站站长', 'WEB_CONTENT' => '18858002358', );?>
